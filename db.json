@@ -1,30 +1,810 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "5a96",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "b636",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "8977",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "dbd5",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "c676",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "caa0",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "56ae",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "ebbf",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "e358",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "83d7",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "cef9",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "9d93",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "e77b",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "bcb9",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "4de2",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "446e",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "038a",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "eb62",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "8200",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "88e9",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "731f",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "5218",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "d915",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "c334",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "6701",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "7362",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "c315",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "82be",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "4b50",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "8795",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "6879",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "1454",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "bc0e",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "beec",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "d587",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "e53a",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "a626",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "4ac3",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "3da7",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "7b66",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "0830",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "38e9",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "174b",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "8037",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "4a46",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "76af",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "3f06",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "4a50",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "7be0",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "cd77",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "bdca",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "a65c",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "9258",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "9662",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "ee00",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "b826",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "5832",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "0604",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "8485",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "ee15",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "de8b",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "b16c",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "7edc",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "e763",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "2f9e",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "b2cf",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "3e3e",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "7eb6",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "ab6b",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "3d4b",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "5c5b",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "2aa1",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "31f9",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "ba19",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "e1c5",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "5749",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "c572",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "2879",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "876e",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "5b16",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "53da",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "7bb8",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "de68",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "ccb1",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "7669",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "5e59",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "08ab",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "c8c3",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "e1f6",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "e545",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "1eb4",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "ee90",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "c63b",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "8ecc",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "f09a",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "ea4e",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "c0da",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "4706",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "1dfc",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "df7b",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "0e54",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "ba07",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "6f45",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "28c1",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "4d9c",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "d43d",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "3645",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "1d9a",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "d6c2",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "3971",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "6f1d",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "bcee",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "db60",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "4953",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "6222",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "8526",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "d11b",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "5709",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "0287",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "610b",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "e528",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "cb93",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "7785",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "daf9",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "352f",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "ace9",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "f9f4",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "620b",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "a307",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "ad8b",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "ea8a",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "861e",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "2f03",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "366a",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "4478",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "6fb6",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "d980",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "8cc5",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "11bd",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "195c",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "2ea7",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "9707",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "bc67",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "095f",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "2c3f",
+      "name": "James",
+      "email": "Jemo@james.com"
+    },
+    {
+      "id": "92cb",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "023e",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "da56",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "52d0",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "87ed",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "260f",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "e63c",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "393a",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "fc00",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    },
+    {
+      "id": "af53",
+      "name": "Javier Pena",
+      "email": "Javierpena@gmail.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
